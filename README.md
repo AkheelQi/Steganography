@@ -1,4 +1,4 @@
-# Stenography
+# 𝙨𝙩𝙚𝙜𝙖𝙣𝙤𝙜𝙧𝙖𝙥𝙝𝙮
 
 Steganography is the practice of concealing a file, message, image, or video within another file, message, image, or video. In contrast with this in Cryptograpy a file, message, image, or video is keyed transformed in order to hide information. Steganography requires a carrier/payload in order to carry Obfuscated information.
 
